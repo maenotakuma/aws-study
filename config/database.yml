@@ -52,4 +52,4 @@ production:
   database: aws-practice-app_production
   username: admin
   password: password
-  host: database-1.cc6jjnbp2prl.ap-northeast-1.rds.amazonaws.com
+  host: database-1.clcoxaazvpwz.ap-northeast-1.rds.amazonaws.com
