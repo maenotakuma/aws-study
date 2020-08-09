@@ -51,5 +51,5 @@ production:
   <<: *default
   database: aws-practice-app_production
   username: admin
-  password: password
+  password: reo6345
   host: database-1.clcoxaazvpwz.ap-northeast-1.rds.amazonaws.com
