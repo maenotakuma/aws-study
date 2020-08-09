@@ -1,3 +1,3 @@
-role :app, 'daichi@18.176.56.27'
-role :web, 'daichi@18.176.56.27'
-role :db, 'daichi@18.176.56.27'
+role :app, 'maeno@13.113.61.248'
+role :web, 'maeno@13.113.61.248'
+role :db, 'maeno@13.113.61.248'

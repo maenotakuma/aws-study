@@ -50,6 +50,8 @@ group :development do
   gem 'capistrano-rails'
   gem 'capistrano3-puma'
   gem 'capistrano-nginx'
+  gem 'ed25519'
+  gem 'bcrypt_pbkdf'
 end
 
 group :test do

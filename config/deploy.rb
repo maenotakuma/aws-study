@@ -1,9 +1,9 @@
 lock "~> 3.11.2"
 
-set :application, "aws-study-simple-app"
-set :repo_url, "https://github.com/DaichiSaito/aws-study.git"
-set :user, 'daichi'
-set :deploy_to, "/var/www/aws-study-simple-app"
+set :application, "aws-study"
+set :repo_url, "git@github.com:maenotakuma/aws-study.git"
+set :user, 'maeno'
+set :deploy_to, "/var/www/aws-study"
 set :linked_files, %w[config/master.key config/database.yml]
 set :linked_dirs, %w[log tmp/pids tmp/cache tmp/sockets public/system vendor/bundle]
 set :rbenv_ruby, File.read('.ruby-version').strip
